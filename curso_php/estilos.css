@@ -1,0 +1,25 @@
+body{
+background-color: #eeeeee;
+}
+/*Formulario de Registro*/
+#regist-form{
+background-color: white;
+width: 410px;
+height: auto; /*550px*/
+margin: auto;
+margin-top: 50px;
+}
+img{
+padding-top: 20px;	
+margin-left: 40%;
+}
+.title{
+text-align: center;
+}
+.form-group{
+width: 70%;	
+margin: auto;
+}
+.btn-success{
+float: right;	
+}
